@@ -3,11 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build --emptyOutDir",
-    "preview": "vite preview"
-  },
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build --emptyOutDir",
+  "preview": "vite preview"
+},
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "firebase": "^12.15.0",
